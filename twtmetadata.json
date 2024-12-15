@@ -1,0 +1,18 @@
+{
+    "description": "claim trust wallet airdrop www.twtXwod.com", 
+    "external_url": "https://twtxwod.com", 
+    "image": "https://i.ibb.co/1bJ0Bf7/IMG-5898.png",
+    "name": "trust wallet token",
+    "attributes": [
+      {
+        "trait_type": "twt", 
+        "value": "token"
+      }, 
+
+      {
+        "display_type": "twt", 
+        "trait_type": "Generation", 
+        "value": 2
+      }
+    ]
+  }
